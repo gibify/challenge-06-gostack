@@ -1,3 +1,7 @@
+<h1 align="center">
+<img src="https://github.com/gibify/challenge-05-gostack/blob/master/assets/back-end.png" 600>
+</h1>
+
 ## TECNOLOGIAS USADAS NO DESAFIO / TECHS:
  * [NodeJS](https://nodejs.org/en/docs/)
  * [TypeScript](https://www.typescriptlang.org/)
