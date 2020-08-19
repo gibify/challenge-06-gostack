@@ -1,9 +1,3 @@
-# challenge-06-gostack
-https://github.com/gibify/challenge-06-gostack/blob/master/assets/back-end.png
-<h1 align="center">
-<img src="https://github.com/gibify/challenge-06-gostack/blob/master/assets/back-end.png" />
-</h1>
-
 ## TECNOLOGIAS USADAS NO DESAFIO / TECHS:
  * [NodeJS](https://nodejs.org/en/docs/)
  * [TypeScript](https://www.typescriptlang.org/)
