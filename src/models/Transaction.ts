@@ -12,7 +12,6 @@ import Category from './Category';
 
 @Entity('transactions')
 class Transaction {
-
   @PrimaryGeneratedColumn('uuid')
   id: string;
 
@@ -34,7 +33,6 @@ class Transaction {
 
   @UpdateDateColumn()
   updated_at: Date;
-  
 }
 
 export default Transaction;
