@@ -15,3 +15,12 @@
 ## SOBRE O DESAFIO / ABOUT THIS CHALLENGE:
 Este desafio foi proposto pelo [Bootcamp GoStack](https://rocketseat.com.br/gostack).
 Nesse desafio, continuamos desenvolvendo a aplicação de gestão de transações, a goFinance, treinando o que foi aprendido até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e PostgresSQL e envio de arquivos .csv com o Multer!
+## Avaliação e Entrega:
+<h1 align="center">
+ <img src="https://github.com/gibify/challenge-05-gostack/blob/master/assets/Screenshot%20(8).png" />
+</h1>
+
+## Testes:
+<h1 align="center">
+<img src="https://github.com/gibify/challenge-05-gostack/blob/master/assets/Screenshot%20(13).png" />
+</h1>
