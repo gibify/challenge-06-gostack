@@ -22,5 +22,5 @@ Nesse desafio, continuamos desenvolvendo a aplicação de gestão de transaçõe
 
 ## Testes:
 <h1 align="center">
-<img src="https://github.com/gibify/challenge-05-gostack/blob/master/assets/Screenshot%20(13).png" />
+<img src="https://github.com/gibify/challenge-06-gostack/blob/master/assets/Screenshot%20(15).png" />
 </h1>
